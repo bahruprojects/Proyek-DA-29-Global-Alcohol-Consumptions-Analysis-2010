@@ -2,7 +2,7 @@
 ### Dashboard: 
 [Link](https://lookerstudio.google.com/u/0/reporting/da77a7ee-0b26-4257-b181-a06dae577aac/page/DRCAE).
 ### Tools: 
-Microsoft Excel (Data Cleaning), Looker Studio (Data Visualizations dan Data Interpretation)
+Microsoft Excel (Data Cleaning), Looker Studio (Data Visualizations dan Data Interpretation).
 ### Dataset: 
 [Link](https://www.kaggle.com/datasets/mysarahmadbhat/alcohol-consumption).
 ### Description:
